@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 25 2018
 
 ### Student Name:  
-(First and Last Name)
+Brittany Ruffin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To code a website where we display weather using an API key.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brittanyruffin.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to obtain an API key.
+2. How to display weather for any given zip code onto a website.
+3. How to use AJAX, jQuery and JSON.
 
